@@ -5,9 +5,7 @@
 
 <!-- Subtítulo animado estilo máquina de escribir -->
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Estudiante+de+Ingeniería+en+Computación+%40+TEC+🇨🇷;Estructuras+de+Datos%2C+Algoritmos+%26+Bajo+Nivel;Desarrollo+Full-Stack%2C+Backend+APIs+%26+Android" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Estudiante+de+Ingenieria+en+Computacion+%40+TEC;Estructuras+de+Datos%2C+Algoritmos+y+Bajo+Nivel;Desarrollo+Full-Stack%2C+Backend+APIs+y+Android" alt="Typing SVG" />
 </div>
 
 <br/>
